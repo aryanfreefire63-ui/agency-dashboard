@@ -1,44 +1,7 @@
-[
-  {
-    "date": "2025-02-10",
-    "stats": {
-      "All": {
-        "depositNumber": 0,
-        "depositAmount": 0,
-        "numBettors": 0,
-        "totalBet": 0,
-        "numFirstDeposit": 0,
-        "firstDepositAmount": 0
-      },
-      "Tier 1": {
-        "depositNumber": 0,
-        "depositAmount": 0,
-        "numBettors": 0,
-        "totalBet": 0,
-        "numFirstDeposit": 0,
-        "firstDepositAmount": 0
-      }
-    }
+{
+  "2025-11-13": {
+    "All": { "depositNumber": 325, "depositAmount": 564166, "numBettors": 2689, "totalBet": 3886992.50, "numFirstDeposit": 211, "firstDepositAmount": 378320 },
+    "Tier 1": { "depositNumber": 154, "depositAmount": 287694, "numBettors": 770, "totalBet": 1950007.90, "numFirstDeposit": 101, "firstDepositAmount": 91900 }
   },
-  {
-    "date": "2025-11-11",
-    "stats": {
-      "All": {
-        "depositNumber": 21,
-        "depositAmount": 2121,
-        "numBettors": 2112,
-        "totalBet": 1221,
-        "numFirstDeposit": 211221,
-        "firstDepositAmount": 2121
-      },
-      "Tier 1": {
-        "depositNumber": 2112,
-        "depositAmount": 12122,
-        "numBettors": 121,
-        "totalBet": 211221,
-        "numFirstDeposit": 2121,
-        "firstDepositAmount": 2
-      }
-    }
-  }
-]
+  "2025-11-12": { ... }
+}
